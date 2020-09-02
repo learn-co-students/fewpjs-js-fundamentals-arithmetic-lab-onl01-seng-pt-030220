@@ -5,6 +5,6 @@ const multiply = num1 * num2;
 
 let random = Math.ceil(Math.random() * 10);
 
-let mod = 14 % 5;
+const mod = 14 % 5;
 
-let max = Math.max( 2, 5, 9, 20, 16);
+const max = Math.max( 2, 5, 9, 20, 16);
