@@ -7,12 +7,12 @@
 
 var num1=31
 var num2=2
- let multiply =num1 * num2
+ const multiply =num1 * num2
 
- let random = Math.random()
-
-
- let mod = 10 % 6
+ const random = Math.random()
 
 
- let max = Math.max(2,5,20,7)
+ const mod = 10 % 6
+
+
+ const max = Math.max(2,5,20,7)
