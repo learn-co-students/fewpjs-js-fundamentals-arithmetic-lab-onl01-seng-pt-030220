@@ -14,7 +14,7 @@ describe('index.js', function() {
       expect(random).to.be.a('number')
       expect(random).to.not.eq(0)
     });
-  });
+  }); 
   describe('mod', function() {
     it("is generates a remainder that is equal to 4", function() {
       expect(mod).to.eq(4)
